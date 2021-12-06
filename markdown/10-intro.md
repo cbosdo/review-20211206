@@ -1,18 +1,25 @@
-<!-- .slide: data-state="cover" id="template-cover-page" data-timing="20" data-menu-title="Cover slide" -->
+<!-- .slide: data-state="cover" data-timing="20" data-menu-title="Cover slide" -->
 <div class="title">
-    <h1>SUSE<sub>&reg;</sub> Presentation</h1>
-    <h2>Guidelines and Template</h2>
+    <h1>Formulas pillar in database</h1>
 </div>
 
-<div class="date-location">31 May 2021</div>
+<div class="date-location">6 December 2021</div>
 
 
-<!-- .slide: data-state="normal" id="template-agenda" data-menu-title="Agenda" -->
-# Contents / agenda
+<!-- .slide: data-state="normal toc" -->
+#  Agenda
 
-### Welcome to the [`reveal.js`](https://github.com/hakimel/reveal.js/) version of the guidelines and template for SUSE presentations.
+1. Pillar in Database Implementation
+> Quick recap
 
-It contains the following slides (you can also press `m` at any
-time to reveal a navigation menu):
+1. Formulas in Database
+> Exploring the data model
 
-*   Presentation template slides
+1. External pillar
+> How the minion gets it
+
+1. Migration
+> From files to database
+
+Note:
+  No demo!
